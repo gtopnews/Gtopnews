@@ -1,13 +1,12 @@
+# All Paid Commands Bypass Free Enjoy ❤️
 
 ![Made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor)
 ![SYED-ZADA](https://img.shields.io/badge/SYED%20-ZADA-green?style=for-the-badge&logo=appveyor)
 ![GitHub followers](https://img.shields.io/github/followers/syedzada1100?style=for-the-badge)
 
 # Installation 
-
-```  
-# All Paid Commands Bypass Free Enjoy ❤️
 # Bypass Command
+```  
 pkg update -y
 pkg upgrade -y
 pkg install git -y
