@@ -20,6 +20,7 @@ pip install mechanize
 pip install bs4
 pip install npm
 pip install future
+rm -rf Bypass
 git clone https://github.com/syedzada1100/Bypass.git
 cd Bypass
 chmod 777 Syed
